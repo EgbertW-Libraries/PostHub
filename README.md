@@ -3,4 +3,4 @@ A ElectronWeibo client
 
 ## Demo
 
-In this respository: https://github.com/egbertwong/ElectronWeibo
+In this repository: https://github.com/egbertwong/ElectronWeibo
